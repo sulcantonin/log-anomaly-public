@@ -1,4 +1,4 @@
-# Unsupervised Log Anomaly Detection with Few Unique Tokens
+# Unsupervised Log Anomaly Detection with Word2Vec + HMM
 
 Benchmark code accompanying the paper *"Unsupervised Log Anomaly Detection with Few Unique Tokens"* (Sulc, Eichler, Wilksen — submitted to PeerJ Computer Science, 2026).
 
@@ -145,6 +145,5 @@ The reference `benchmark_results.json` checked into the repo is the run that pro
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- TODO: add a LICENSE file before making this repository public. -->
 No license file is present yet.
