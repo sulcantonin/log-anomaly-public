@@ -1,0 +1,16 @@
+# Exact package versions for full reproducibility.
+# Install with:
+#   python -m venv env
+#   source env/bin/activate
+#   pip install -r requirements.txt
+#
+# Tested on Python 3.11.13 (Linux x86_64).
+
+gensim==4.4.0
+torch==2.12.0
+hmmlearn==0.3.3
+numpy==2.4.4
+scikit-learn==1.8.0
+scipy==1.17.1
+smart_open==7.5.1
+wrapt==2.1.2
