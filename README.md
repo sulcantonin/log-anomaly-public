@@ -1,4 +1,4 @@
-# Unsupervised Log Anomaly Detection with Word2Vec + HMM
+# Unsupervised Log Anomaly Detection with Few Unique Tokens
 
 Benchmark code accompanying the paper *"Unsupervised Log Anomaly Detection with Few Unique Tokens"* (Sulc, Eichler, Wilksen — submitted to PeerJ Computer Science, 2026).
 
